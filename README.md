@@ -16,7 +16,7 @@
 ## Hypothesis and how to validate?
 * Do more customers purchase products on weekends rather than weekdays?
 * Are customers more inclined to spend in holiday periods (ie. Christmas, Halloween) 
-* Also does location affect this?
+  * Also does location affect this?
 * Would discounts/sales improve overall transactions rates?
 
 * To validate this I will be ussign an array of analysis etchniques and data visualisations.
