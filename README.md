@@ -15,9 +15,9 @@
 
 ## Hypothesis and how to validate?
 * Do more customers purchase products on weekends rather than weekdays?
-* Are customers more inclined to spend in holiday periods (ie. Christmas, Halloween) 
+* Are customers more inclined to spend in the morning (00:00-12:00) opposed to afternoon (12:00-17:00)
   * Also does location affect this?
-* Would discounts/sales improve overall transactions rates?
+* Does the unit price efect the quantiy of products being brought?
 
 * To validate this I will be ussign an array of analysis etchniques and data visualisations.
  
