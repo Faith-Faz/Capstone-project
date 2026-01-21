@@ -14,7 +14,13 @@
 
 
 ## Hypothesis and how to validate?
-* List here your project hypothesis(es) and how you envision validating it (them) 
+* Do more customers purchase products on weekends rather than weekdays?
+* Are customers more inclined to spend in holiday periods (ie. Christmas, Halloween) 
+* Also does location affect this?
+* Would discounts/sales improve overall transactions rates?
+
+* To validate this I will be ussign an array of analysis etchniques and data visualisations.
+ 
 
 ## Project Plan
 * Outline the high-level steps taken for the analysis.
