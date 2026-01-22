@@ -9,7 +9,7 @@
 * The title of this dataset is Online Retail Transactions. This data includes the habits of customers purchasing from a online rertailer. Which includes their country,products and the quantity they brought.
 
 ## Business Requirements
-* My goal is to cleary show the purchasing trends/patterns that are being made from each country. Which will help an audience understand overall how much is being spent per region
+* My goal is to clearly show the purchasing trends/patterns that are being made from each country. Which will help an audience understand overall how much is being spent per region
 
 
 ## Hypothesis and how to validate?
