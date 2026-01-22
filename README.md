@@ -14,8 +14,6 @@
 
 ## Hypothesis and how to validate?
 * Does every country have the same amount of sales?
-* Are customers more inclined to spend in the morning (00:00-12:00) opposed to afternoon (12:00-17:00)
-  * Also does location affect this?
 * Does the unit price efect the quantiy of products being brought?
 
 * To validate this I will be ussign an array of analysis techniques and data visualisations.
