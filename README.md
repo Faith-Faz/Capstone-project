@@ -1,25 +1,25 @@
-# Project XYZ
+# Online Retail Transaction Analysis
 
-**Project XYZ** is a comprehensive data analysis tool designed to streamline data exploration, analysis, and visualisation. The tool supports multiple data formats and provides an intuitive interface for both novice and expert data scientists.
+
 
 # ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 
 
 ## Dataset Content
-* Describe your dataset. Choose a dataset of reasonable size to avoid exceeding the repository's maximum size of 100Gb.
-
+* The title of this dataset is Online Retail Transactions. This data includes the habits of customers purchasing from a online rertailer. Which includes their country,products and the quantity they brought.
 
 ## Business Requirements
-* Describe your business requirements
+* My goal is to cleary show the purchasing trends/patterns that are being made from each country. Which will help an audience understand overall how much is being spent per region
 
 
 ## Hypothesis and how to validate?
-* Do more customers purchase products on weekends rather than weekdays?
+* Does every country have the same amount of sales?
 * Are customers more inclined to spend in the morning (00:00-12:00) opposed to afternoon (12:00-17:00)
   * Also does location affect this?
 * Does the unit price efect the quantiy of products being brought?
 
-* To validate this I will be ussign an array of analysis etchniques and data visualisations.
+* To validate this I will be ussign an array of analysis techniques and data visualisations.
+* This includes data visualistions created using Matplotlib,Seaborn and Plotly.
  
 
 ## Project Plan
