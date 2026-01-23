@@ -14,10 +14,10 @@
 
 ## Hypothesis and how to validate?
 * Does every country have the same amount of sales?
-* Does the unit price efect the quantiy of products being brought?
-* What is the most popular pruduct beign sold overall?
+* What is the most popular product being sold overall?
+* Does the unit price effect the quantity of products being brought?
 
-* To validate this I will be ussign an array of analysis techniques and data visualisations.
+* To validate this I will be using an array of analysis techniques and data visualisations.
   * This includes data visualistions created using Matplotlib,Seaborn and Plotly.
  
 
